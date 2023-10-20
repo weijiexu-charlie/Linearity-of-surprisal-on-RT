@@ -8,5 +8,5 @@ Code and statistical results for the paper: The linearity of the effect of surpr
 
 2. The files under the folder `Preprocessing` are the R code that 1) first merge the meta data of each corpus (texts with surprisal and log-scaled frequency) with the reading time measures; 2) and then do other data wrangling to prepare for the statistical analyses.
 
-3. The files under the folder `Analyses` are the R code that do statistical tests. The detailed results are under the folder `Stats Results`.
+3. The files under the folder `Analyses` are the R code for statistical tests. The detailed results are under the folder `Stats Results`.
 
